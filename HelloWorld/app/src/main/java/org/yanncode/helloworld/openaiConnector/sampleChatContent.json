@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-6upu9sTgL2CWhT3GFaqKxtQHPbnzL",
+  "object": "chat.completion",
+  "created": 1679003909,
+  "model": "gpt-3.5-turbo-0301",
+  "usage": {
+    "prompt_tokens": 10,
+    "completion_tokens": 11,
+    "total_tokens": 21
+  },
+  "choices": [
+    {
+      "message": {
+        "role": "assistant",
+        "content": "\n\nThat's great! What subject do you teach?"
+      },
+      "finish_reason": "stop",
+      "index": 0
+    }
+  ]
+}
